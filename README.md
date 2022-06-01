@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @KetyAires
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oie,eu sou a @KetyAires
+- 👀 Estou interessada em aprender a programar novas linguagens
+- 🌱 Scrath e JavaScript
+- 💞️ Católica
+- 📫 Tenho 15 anos
+-
 
 <!---
 KetyAires/KetyAires is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
